@@ -63,7 +63,7 @@ function App() {
       <h5>전통적인 방식으로 구현한 메뉴</h5>
       <PRE>
         float: left;로 목록의 방향을 왼쪽으로 틀어주고, 부모에 overflow:
-        hidden을 설정하여 float한 아이템의 높이를 정의하는 방식
+        hidden을 설정하여 float한 아이템의 높이를 정의한다
       </PRE>
       <TraditionalMenu />
 
